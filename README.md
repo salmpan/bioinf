@@ -18,6 +18,7 @@ A Python CLI tool for finding subsequences in DNA or RNA sequences using start a
 
 ## Usage
 ```bash
+cd exercise_1
 python script.py data/input1.seq
 ```
 
